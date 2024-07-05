@@ -1,1 +1,1 @@
-# -AI-Driven-Doctor-Appointment-Platform
+# AI-Driven-Doctor-Appointment-Platform
